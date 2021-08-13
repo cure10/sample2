@@ -77,6 +77,10 @@ main {
   line-height: 0.6;
 }
 
+.blog-box {
+  padding-top: 50px;
+}
+
 .blog-item {
   height: 180px;
   padding-bottom: 20px;
@@ -84,6 +88,14 @@ main {
   border-bottom: 1px solid #f7f7f7;
   display: flex;
   justify-self: flex-start;
+}
+
+.blog-text {
+  padding: 25px 0 0 30px;
+}
+
+.blog-text-heading {
+  padding: 15px;
 }
 
 .blog-date {
